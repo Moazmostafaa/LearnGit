@@ -10,7 +10,7 @@ namespace LearnGit.Managers
             {
                 Class = "class 2",
                 Id = 1,
-                Name = "Ahmed Moh",
+                Name = "John Doe",
                 Subjects = new List<int>() { 1, 2, 3 }
             };
 
