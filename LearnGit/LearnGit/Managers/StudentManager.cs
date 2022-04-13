@@ -8,9 +8,9 @@ namespace LearnGit.Managers
         {
             var student = new Student()
             {
-                Class = "class 1",
+                Class = "class 2",
                 Id = 1,
-                Name = "Ahmed",
+                Name = "Ahmed Moh",
                 Subjects = new List<int>() { 1, 2, 3 }
             };
 
