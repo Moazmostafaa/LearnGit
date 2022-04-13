@@ -6,5 +6,6 @@
         public string Name { get; set; }
         public string Class { get; set; }
         public List<int> Subjects { get; set; }
+        public string Scenario { get; set; }
     }
 }
