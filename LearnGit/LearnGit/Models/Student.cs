@@ -7,6 +7,5 @@
         public string Class { get; set; }
         public List<int> Subjects { get; set; }
         public string Scenario { get; set; }
-        public int y { get; set; }
     }
 }
